@@ -1,0 +1,19 @@
+body{
+    background-color: steelblue;
+}
+
+#content p{
+
+    color:whitesmoke;
+}
+
+#timer{
+    position: absolute;
+    top:15px;
+    left:400px;
+    font-size: 30px;
+}
+
+h1{
+    color:#64C896;
+}

@@ -1,0 +1,78 @@
+/*  **********************************
+    Daniel Alvarez //   styles.css
+    FROM the Missing Manual 4th ED by McFarland
+    Last mod:  9/13/17
+*************************************  */
+/* aligning the body and setting background image*/
+body {
+    padding: 15px;
+	background: #071f33;
+	
+}
+div.wrapper {
+    width: 75%;
+    padding: 20px;
+    margin: 0 auto;
+    background: #f1f1f1;
+}
+/*sets the properites for all the content on the page*/
+/*General*/
+header h1, header h2{
+    text-align: center;
+    color: #f1f1f1;
+}
+
+h1 {
+	color: #373835;
+    margin: 0;
+    font-size: 2.4em;  
+    font-weight: normal;
+    font-family:  'Varela Round', 'Arial Black', sans-serif;
+}
+
+p {
+    color:#373835;
+    line-height: 150%;
+    margin-left: 50px;
+    font-family: "Palatino Linotype", Baskerville, serif;
+}
+
+ h2 {
+    color: #373835;
+    border-bottom: 2px white solid;
+    font-weight: normal;
+    font-size: 2em;
+    font-family:  'Varela Round', 'Arial Black', sans-serif;
+}
+h3 {
+    color:#373835;
+	margin-top: 30px;
+	margin-bottom: 5px;
+    margin-left: 0px; 
+    font-weight: normal;
+    font-size: 1em;
+    font-family:  'Varela Round', 'Arial Black', sans-serif;
+    border-bottom: 2px white solid;
+}
+ul{
+    list-style: none;
+    font-size: 1.3em;
+}
+ul li ul{
+    list-style: none;
+    font-size: .9em;
+}
+
+a{
+    text-decoration: underline;
+    color:#0b0c11;
+	
+}
+footer{
+	margin-top:10px;
+}
+
+a:hover{
+    color:#2852dd
+}
+
