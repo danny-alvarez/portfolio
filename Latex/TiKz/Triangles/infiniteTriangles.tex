@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage[paper=letterpaper,total={8.0in,9.4in}, top=0.7in, left=.1in]{geometry}\usepackage{tikz}
+
+\usepackage{tkz-graph}
+\usetikzlibrary{calc}
+\definecolor{cus-blue}{RGB}{82, 203, 254}
+\definecolor{cus-red}{RGB}{	254, 82, 88}
+\definecolor{cus-orange}{RGB}{254, 134, 82}
+\definecolor{cus-yellow}{RGB}{254, 191, 82}
+\definecolor{cus-blue1}{RGB}{91, 185, 236}
+\definecolor{cus-red1}{RGB}{91, 236, 156}
+\definecolor{cus-green}{RGB}{254, 134, 82}
+\definecolor{cus-aqua}{RGB}{91, 236, 221}
+\definecolor{cus-purp}{RGB}{178, 89, 238}
+\definecolor{cus-blue2}{RGB}{111, 89, 238}
+\definecolor{cus-green1}{RGB}{148, 238, 89}
+\definecolor{cus-violet}{RGB}{148, 238, 89}
+
+\newcommand{\circtri}[1]{
+		
+	\begin{scope}[xshift=#1 cm]
+		\foreach \x in {-8,-7.95,...,7}{
+			\foreach \c in { cus-blue,cus-red,cus-orange,cus-yellow,cus-blue1,cus-red1,cus-green,
+				cus-aqua,cus-purp,cus-blue2,cus-green1,cus-violet}{
+				\colorlet{cup}{\c}
+				\draw [thick,rotate=rand*360,xshift=\x*.6 cm,fill=\c,scale=\x*.1] (0 ,0)--(1 ,2)--(2 ,0) -- cycle; 	
+			}
+		}
+\end{scope}
+}
+\begin{document}
+\begin{tikzpicture}
+	
+	
+	
+
+		\circtri{0}
+	
+	\end{tikzpicture}
+	
+	
+	
+\end{document}
