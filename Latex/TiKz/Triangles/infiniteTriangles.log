@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.10)  31 MAY 2019 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.10)  15 JUN 2019 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -503,16 +503,16 @@ e
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./infiniteTriangles.aux) ) 
 Here is how much of TeX's memory you used:
- 18108 strings out of 492616
- 369182 string characters out of 6132768
- 858636 words of memory out of 5000000
- 21789 multiletter control sequences out of 15000+600000
+ 17993 strings out of 492616
+ 366847 string characters out of 6132768
+ 858514 words of memory out of 5000000
+ 21674 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,5n,54p,398b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2018/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb>
-Output written on infiniteTriangles.pdf (1 page, 119412 bytes).
+Output written on infiniteTriangles.pdf (1 page, 119250 bytes).
 PDF statistics:
  15 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
