@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.15)  27 OCT 2020 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.15)  27 OCT 2020 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume.tex
-(./resume.tex
+**resume_Alvarez_music.tex
+(./resume_Alvarez_music.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -246,8 +246,8 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count268
 \l__pdf_internal_box=\box49
 )
-(./resume.aux)
-\openout1 = `resume.aux'.
+(./resume_Alvarez_music.aux)
+\openout1 = `resume_Alvarez_music.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -341,9 +341,9 @@ LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
 
-(./resume.out) (./resume.out)
+(./resume_Alvarez_music.out) (./resume_Alvarez_music.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `resume_Alvarez_music.out'.
 
 
 Overfull \hbox (30.0pt too wide) in paragraph at lines 34--34
@@ -390,18 +390,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--60
 [1
 
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./resume.aux)
-Package rerunfilecheck Info: File `resume.out' has not changed.
+(./resume_Alvarez_music.aux)
+Package rerunfilecheck Info: File `resume_Alvarez_music.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 5992 strings out of 479917
- 91126 string characters out of 5886664
- 400982 words of memory out of 5000000
+ 5993 strings out of 479917
+ 91342 string characters out of 5886664
+ 401052 words of memory out of 5000000
  22477 multiletter control sequences out of 15000+600000
  539250 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,5n,85p,578b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,5n,85p,592b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/tex
 live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-di
@@ -409,10 +409,10 @@ st/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super
 /sfrm1095.pfb>
-Output written on resume.pdf (2 pages, 84029 bytes).
+Output written on resume_Alvarez_music.pdf (2 pages, 85697 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
